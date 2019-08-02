@@ -1,3 +1,10 @@
-
+.vs/
 bin/
 obj/
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
